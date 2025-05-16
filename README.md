@@ -14,10 +14,10 @@ Each example is written in **modern JavaScript (ES6+)**, with clear and concise 
 
 ```
 /creational
-  - singleton.js
-  - factory.js
-  - builder.js
-  - prototype.js
+  - singleton_pattern.js
+  - factory_method_pattern.js
+  - builder_pattern.js
+  - prototype_pattern.js
   - abstract-factory.js
 
 /structural
@@ -26,8 +26,8 @@ Each example is written in **modern JavaScript (ES6+)**, with clear and concise 
   - proxy.js
 
 /behavioral
-  - observer.js
-  - strategy.js
+  - observer_pattern.js
+  - strategy_pattern.js
   - command.js
 ```
 
@@ -38,9 +38,9 @@ Each example is written in **modern JavaScript (ES6+)**, with clear and concise 
 You can clone the repository and run any example using Node.js:
 
 ```bash
-git clone https://github.com/your-username/js-design-patterns.git
-cd js-design-patterns
-node creational/singleton.js
+git clone https://github.com/fady-elshahat/design_pattern.git
+cd design-patterns
+node creational/singleton_pattern.js
 ```
 
 ---
