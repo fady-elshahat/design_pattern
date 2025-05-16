@@ -18,6 +18,7 @@ Each example is written in **modern JavaScript (ES6+)**, with clear and concise 
   - factory.js
   - builder.js
   - prototype.js
+  - abstract-factory.js
 
 /structural
   - adapter.js
