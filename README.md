@@ -25,6 +25,7 @@ Each example is written in **modern JavaScript (ES6+)**, with clear and concise 
   - composite_pattern.js
   - decorator_pattern.js
   - proxy_pattern.js
+  - facode_pattern.js
 
 /behavioral
   - observer_pattern.js
