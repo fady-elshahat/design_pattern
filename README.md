@@ -28,7 +28,9 @@ Each example is written in **modern JavaScript (ES6+)**, with clear and concise 
 /behavioral
   - observer_pattern.js
   - strategy_pattern.js
-  - command.js
+  - command_pattern.js
+  - state_pattern.js
+
 ```
 
 ---
