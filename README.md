@@ -21,7 +21,8 @@ Each example is written in **modern JavaScript (ES6+)**, with clear and concise 
   - abstract-factory.js
 
 /structural
-  - adapter.js
+  - adapter_pattern.js
+  - composite_pattern.js
   - decorator.js
   - proxy.js
 
@@ -41,7 +42,7 @@ You can clone the repository and run any example using Node.js:
 
 ```bash
 git clone https://github.com/fady-elshahat/design_pattern.git
-cd design-patterns
+cd design-pattern
 node creational/singleton_pattern.js
 ```
 
